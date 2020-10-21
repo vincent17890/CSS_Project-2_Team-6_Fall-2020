@@ -1,0 +1,1 @@
+In this project, we develop and test various machine learning models to predict diabetes rates in United States counties. Please see project2_udpated.ipynb for the most up-to-date Jupyter Notebook, which contains our final analysis.
